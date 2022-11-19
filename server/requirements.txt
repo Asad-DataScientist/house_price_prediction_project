@@ -1,0 +1,5 @@
+Here you are required following things
+
+Python Flask, version 2.2.2 or older
+numpy	      version 1.23. 4 or older
+scikit-learn  version 1.1.0 or older
