@@ -1,11 +1,10 @@
-I have created this data science project series that walks through step by step process of how to build a real estate price prediction website.
+I have created this end to end data science project that walks through step by step process of how to build a real estate price prediction website.
 
-First build a model using sklearn and linear regression using banglore home prices dataset from kaggle.com.
+First built a model using sklearn and linear regression using banglore home prices dataset from kaggle.com.
 
-In second step to wrote a python flask server that uses the saved model to serve http requests. 
+In second step wrote a python flask server that uses the saved model to serve http requests. 
 
-The third component is the website built in html, css and javascript that allows user to enter home square ft area, bedrooms etc and it will call python flask server to retrieve the 
-predicted price. 
+The third component is the website built in html, css and javascript that allows user to enter home square ft area, bedrooms etc and it will call python flask server to retrieve the predicted price. 
 
 During model building trying to cover almost all data science concepts such as 
 Data load and cleaning, 
